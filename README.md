@@ -45,3 +45,17 @@ At the end of the Class Students Will Be Able To:
 
 * Ability to write and read code
 * Background in Python/R is preferred but not required
+
+
+Agenda:
+
+* Introductions
+* Intro to Data Science 
+	* [slides](slides/01_intro_to_data_science.pdf)
+* Introduction to Python with Pandas 
+	* [code](code/01_pandas.py)
+
+Homework
+
+* [Practice Problems for next time!] (homework/01_pandas_homework.py) 
+	* The [Data](data/drinks/csv) was taken from this [538 article](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/)
