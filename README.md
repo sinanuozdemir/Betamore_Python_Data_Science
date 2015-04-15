@@ -58,4 +58,4 @@ Agenda:
 Homework
 
 * [Practice Problems for next time!] (homework/01_pandas_homework.py) 
-	* The [Data](data/drinks/csv) was taken from this [538 article](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/)
+	* The [Data](data/drinks.csv) was taken from this [538 article](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/)
