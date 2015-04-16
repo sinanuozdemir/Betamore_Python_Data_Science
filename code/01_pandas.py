@@ -34,7 +34,7 @@ ufo.tail()            # Bottom x observations (defaults to 5)
 ufo.describe()        # describe any numeric columns (unless all columns are non-numeric)
 ufo.index             # "the index" (aka "the labels")
 ufo.columns           # column names (which is "an index")
-ufo.shape 			  # gives us a tuple of (# rows, # cols)
+ufo.shape 		    # gives us a tuple of (# rows, # cols)
 ufo.dtypes            # data types of each column
 ufo.values            # underlying numpy array
 
