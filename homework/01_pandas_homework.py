@@ -5,9 +5,10 @@ Homework: Analyzing the drinks data
     Downloaded from: https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
 
 '''
+import pandas as pd
 
 # Read drinks.csv into a DataFrame called 'drinks'
-
+drinks = pd.read_csv('https://raw.githubusercontent.com/sinanuozdemir/Betamore_Python_Data_Science/master/data/drinks.csv')
 
 # Print the first 10 rows
 
