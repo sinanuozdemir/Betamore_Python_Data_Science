@@ -99,5 +99,5 @@ At the end of the Class Students Will Be Able To:
 
 Homework
 
-* [Practice Problems for next time!] (homework/02_glass.py) 
+* [Practice Problems for next time!] (homework/02_glass_knn.py) 
 * There is also a homework question in the linear regression code file to work on!
