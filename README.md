@@ -18,8 +18,7 @@ Sinan is an experienced teacher and entrepreneur.
 Day | Part | Topic
 --- | --- | ---
 4/15 | 1 | [Data Exploration with Pandas](#class-1-introduction-and-pandas)
-4/22 | 2 | Intro to Machine Learning(#class-2-introduction-to-machine-learning)
-
+4/22 | 2 | [Intro to Machine Learning](#class-2-introduction-to-machine-learning)
 4/29 | 3 | Model Evaluation and Metrics
 5/6 | 4 | Building a Model using Titanic Survival Data
  
