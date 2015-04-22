@@ -86,7 +86,7 @@ At the end of the Class Students Will Be Able To:
     * [Characteristics of your zip code](http://www.esri.com/landing-pages/tapestry/)
     * KNN [code](code/02_knn.py)
 * Introduction to Linear Regression
-	* 	[slides](code/02_linear_regression.pdf)
+	* 	[slides](slides/02_linear_regression.pdf)
 	* 	[code](code/02_linear_regression.py)
 
 **Further Resources:**
