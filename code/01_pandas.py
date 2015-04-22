@@ -34,7 +34,7 @@ ufo.tail()            # Bottom x observations (defaults to 5)
 ufo.describe()        # describe any numeric columns (unless all columns are non-numeric)
 ufo.index             # "the index" (aka "the labels")
 ufo.columns           # column names (which is "an index")
-ufo.shape             # gives us a tuple of (# rows, # cols)
+ufo.shape 		    # gives us a tuple of (# rows, # cols)
 ufo.dtypes            # data types of each column
 ufo.values            # underlying numpy array
 
@@ -152,8 +152,6 @@ ufo.isnull().sum()
 # drop missing values
 ufo.dropna()             # drop a row if ANY values are missing
 ufo.dropna(how='all')    # drop a row only if ALL values are missing
-# drop a row if values are missing from the City column
-ufo.dropna(axis=0, subset=['City']) 
 
 ufo                      # Remember, without an inplace=True, the dataframe is unaffected!
 

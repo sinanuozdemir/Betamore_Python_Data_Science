@@ -18,7 +18,7 @@ Sinan is an experienced teacher and entrepreneur.
 Day | Part | Topic
 --- | --- | ---
 4/15 | 1 | [Data Exploration with Pandas](#class-1-introduction-and-pandas)
-4/22 | 2 | Intro to Machine Learning
+4/22 | 2 | [Intro to Machine Learning](#class-2-introduction-to-machine-learning)
 4/29 | 3 | Model Evaluation and Metrics
 5/6 | 4 | Building a Model using Titanic Survival Data
  
@@ -59,3 +59,45 @@ Homework
 
 * [Practice Problems for next time!] (homework/01_pandas_homework.py) 
 	* The [Data](data/drinks.csv) was taken from this [538 article](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/)
+
+	# Class 2: Introduction to Machine Learning
+
+In this session we will go over the interesting subject of machine learning and build our first two models using the python package sci-kit learn.
+
+At the end of the Class Students Will Be Able To: 
+
+* Understand at a fundamental level what machine learning is and how it is used in practice.
+* Use a module in python called Sci-kit learn in order to build and evaluate machine learning models
+* Understand key differences between machine lerning models
+
+**Recommended Prereqs:**
+
+* Basic understanding of the Python package Pandas
+* Background in Python/R is preferred but not required
+
+
+**Agenda:**
+
+* Iris dataset
+    * [What does an iris look like?](http://sebastianraschka.com/Images/2014_python_lda/iris_petal_sepal.png)
+    * [Data](http://archive.ics.uci.edu/ml/datasets/Iris) hosted by the UCI Machine Learning Repository
+* Machine learning and KNN ([slides](slides/02_intro_to_machine_learning_knn.pdf))
+    * [Reddit AMA with Yann LeCun](http://www.reddit.com/r/MachineLearning/comments/25lnbt/ama_yann_lecun)
+    * [Characteristics of your zip code](http://www.esri.com/landing-pages/tapestry/)
+    * KNN [code](code/02_knn.py)
+* Introduction to Linear Regression
+	* 	[slides](slides/02_linear_regression.pdf)
+	* 	[code](code/02_linear_regression.py)
+
+**Further Resources:**
+
+* To go much more in-depth on linear regression, read Chapter 3 of [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), watch the [related videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) or read a [quick reference guide](http://www.dataschool.io/applying-and-interpreting-linear-regression/) to the key points in that chapter.
+* This [introduction to linear regression](http://people.duke.edu/~rnau/regintro.htm) is much more detailed and mathematically thorough, and includes lots of good advice.
+* This is a relatively quick post on the [assumptions of linear regression](http://pareonline.net/getvn.asp?n=2&v=8).
+
+* Documentation: [user guide](http://scikit-learn.org/stable/modules/neighbors.html), [module reference](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors), [class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+
+Homework
+
+* [Practice Problems for next time!] (homework/02_glass_knn.py) 
+* There is also a homework question in the linear regression code file to work on!
