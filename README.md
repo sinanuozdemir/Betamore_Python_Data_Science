@@ -19,7 +19,7 @@ Day | Part | Topic
 --- | --- | ---
 4/15 | 1 | [Data Exploration with Pandas](#class-1-introduction-and-pandas)
 4/22 | 2 | [Intro to Machine Learning](#class-2-introduction-to-machine-learning)
-4/29 | 3 | Model Evaluation and Metrics
+4/29 | 3 | [Model Evaluation and Metrics](#model-evaluation-metrics-and-procedures)
 5/6 | 4 | Building a Model using Titanic Survival Data
  
 
@@ -101,3 +101,28 @@ Homework
 
 * [Practice Problems for next time!] (homework/02_glass_knn.py) 
 * There is also a homework question in the linear regression code file to work on!
+
+	# Class 3: Model Evaluation Metrics and Procedures
+	
+	We will discover the process and quantifiable metrics that we use to evaluate our machine learning models
+
+At the end of the Class Students Will Be Able To: 
+
+*  see how data scientists prepare and alter their models in order to maximize accuracy.
+
+
+**Recommended Prereqs:**
+
+* Basic understanding of Regression and Classification
+
+**Agenda:**
+
+* Model Evaluation
+    * Go over basic [Procedure] (slides/03_model_evaluation_procedures.pdf)
+    * look at different [Metrics](slides/03_model_evaluation_metrics.pdf)
+    * [Code](code/03_model_evaluation.py)
+
+    
+**Further Resources:**
+
+* Great video of [ROC/AUC curves](https://www.youtube.com/watch?v=OAl6eAyP-yo)
