@@ -126,3 +126,10 @@ At the end of the Class Students Will Be Able To:
 **Further Resources:**
 
 * Great video of [ROC/AUC curves](https://www.youtube.com/watch?v=OAl6eAyP-yo)
+
+	# Class 4: Titanic Data Set
+	
+	Congratulations! You have made it this far :) Today we will be looking at the titanic data set on Kaggle.com to get a model that will tell us whether or not a person died on the Titanic.
+	
+	* Find the code [here](code/04_kaggle_titanic.py)
+	* Our data lives in two files. the [in sample data](data/titanic.csv) and our [out of sample data](data/titanic_test.csv) are separate.
