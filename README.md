@@ -20,7 +20,7 @@ Day | Part | Topic
 4/15 | 1 | [Data Exploration with Pandas](#class-1-introduction-and-pandas)
 4/22 | 2 | [Intro to Machine Learning](#class-2-introduction-to-machine-learning)
 4/29 | 3 | [Model Evaluation and Metrics](#class-3-model-evaluation-metrics-and-procedures)
-5/6 | 4 | Building a Model using Titanic Survival Data
+5/6 | 4 | [Building a Model using Titanic Survival Data](#class-4-titanic-data-set)
  
 
 
